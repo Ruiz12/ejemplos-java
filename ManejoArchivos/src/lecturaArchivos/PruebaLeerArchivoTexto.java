@@ -1,5 +1,4 @@
 package lecturaArchivos;
-
 // Ejemplo tomado del libro 
 // D EITEL , P AUL J. Y H ARVEY M. D EITEL
 // CÓMO PROGRAMAR EN J AVA . Séptima edición
