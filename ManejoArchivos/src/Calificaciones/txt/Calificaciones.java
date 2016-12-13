@@ -47,9 +47,9 @@ public class Calificaciones {
             try // envía valores al archivo
             {
                 // obtiene los datos que se van a enviar
-                System.out.println("Ingrese los nombres del estudiante: ");
+                System.out.println("Ingrese el nombres del estudiante: ");
                 String nom = entrada.nextLine(); // lee nombres
-                System.out.println("Ingrese los apellidos del estudiante: ");
+                System.out.println("Ingrese el apellidos del estudiante: ");
                 String ape = entrada.nextLine(); // lee apellidos
                 System.out.println("Ingrese nota 1 del estudiante: ");
                 double n1 = entrada.nextDouble();
